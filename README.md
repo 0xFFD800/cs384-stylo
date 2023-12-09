@@ -1,2 +1,2 @@
-# cs384-stylo
-Stylometry project for CSCI 384: Computational Linguistics
+# Stylometry project for CSCI 384: Computational Linguistics
+This was an investigative project in which the goal was to evaluate different stylometric methods for a stylometry or authorship attribution problem. The problem chosen here was an analysis of a corpus of works whose authors spanned multiple highly differing genres, with A. A. Milne having 2 plays, 2 children's novels, and a detective story; G. K. Chesterton having 2 works of poetry, 2 works on philosophy, and a collection of short mystery stories; and George MacDonald having 2 novels and 2 collections of sermons. 
